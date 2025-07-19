@@ -1,4 +1,4 @@
-# 🛠️ Simple Blockchain Implementation in Go
+# Simple Blockchain Implementation in Go
 
 This is a **basic blockchain implementation** in Go (Golang).  
 It helps you understand how blockchain works by linking blocks through hashes.
@@ -21,7 +21,7 @@ It helps you understand how blockchain works by linking blocks through hashes.
 
 ---
 
-## 🔑 Key Functions
+## Key Functions
 
 | Function       | Purpose                                      |
 |----------------|----------------------------------------------|
